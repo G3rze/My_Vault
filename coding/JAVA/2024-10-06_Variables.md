@@ -1,11 +1,12 @@
---
-date: 2024-10-06
-tags:
-    - #Java #Variables #Beginner
-hubs:
-     "[[JAVA HUB]]"
-    -
 ---
+hubsobsidian://open?vault=My_Vault&file=coding%2FJAVA%2FJAVA%20HUB: "[[JAVA HUB]]"
+date: 2024-06-10
+tags:
+  - Java
+  - Variables
+  - Beginner
+---
+
 
 # Variables
 

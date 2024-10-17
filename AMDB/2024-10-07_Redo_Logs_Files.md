@@ -1,11 +1,8 @@
 ---
 date: 2024-10-07
-tags:
-    -
-hubs:
-     "[[AMDB_HUB]]"
+tags: 
+hubs: "[[AMDB/AMDB_HUB|AMDB_HUB]]"
 urls:
-    -
 ---
 
 # Redo_Logs_Files
